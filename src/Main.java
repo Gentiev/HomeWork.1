@@ -53,5 +53,6 @@ public class Main {
         System.out.println(numberOfWorkers);
         var workingDay2 = totalTime / ( numberOfWorkers + 94 );
         System.out.println(workingDay2);
+
         }
 }
